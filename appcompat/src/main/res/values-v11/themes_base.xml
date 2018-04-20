@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.V11.ThemeOverlay.AppCompat.Light.Dialog" parent="Base.V7.ThemeOverlay.AppCompat.Light.Dialog">
+        <item name="android:buttonBarStyle">@style/Widget.AppCompat.ButtonBar.AlertDialog</item>
+        <item name="android:borderlessButtonStyle">@style/Widget.AppCompat.Button.Borderless</item>
+        <item name="android:windowCloseOnTouchOutside">
+            @bool/abc_ext_config_closeDialogWhenTouchOutside
+        </item>
+    </style>
+
+    <style name="Base.ThemeOverlay.AppCompat.Light.Dialog" parent="Base.V11.ThemeOverlay.AppCompat.Light.Dialog" />
+</resources>

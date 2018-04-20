@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ThemeOverlay.AppCompat.Light.Dialog.Alert" parent="Base.ThemeOverlay.AppCompat.Light.Dialog.Alert" />
+
+</resources>
