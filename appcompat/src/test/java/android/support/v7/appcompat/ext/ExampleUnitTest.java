@@ -1,4 +1,4 @@
-package android.support.v7.appcompat.ext;
+package androidx.appcompat.appcompat.ext;
 
 import org.junit.Test;
 
